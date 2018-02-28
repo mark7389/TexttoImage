@@ -1,0 +1,15 @@
+{
+  "name": "texttoimage",
+  "version": "1.0.0",
+  "description": "native app to search based on text from image",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "image"
+  ],
+  "author": "Mark Moheb && Mark Soliman",
+  "license": "ISC"
+}
